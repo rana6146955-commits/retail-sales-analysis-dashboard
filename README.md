@@ -40,12 +40,12 @@ The dashboard analyzes:
 
 ## Dashboard
 
-![Retail Sales Dashboard](images/dashboard.png)
+![Retail Sales Dashboard](dashboard.png)
 
 ## Data Preparation
 
-![Power Query](images/power-query.png)
+![Power Query](power-query.png)
 
 ## Data Model
 
-![Data Model](images/data-model.png)
+![Data Model](data-model.png)
